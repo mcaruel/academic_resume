@@ -1,31 +1,54 @@
-Johnny Coder
+---
+lang: fr
+---
+
+Matthieu Caruel
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> Maître de conférence, candidat à la mutation\
+> Spécialité : Mécanique statistique appliquée à la modélisation biophysique
 
 ----
 
-Education
----------
+## Expérience professionnelle
+<!-- --------- -->
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+depuis 2014
+:   **Université Paris-Est Créteil** ; *Maître de Conférences (CNU 60)*
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    - Equipe Biomécanique, recherche sur la modélisation de la contraction musculaire (moteurs moléculaires)
+    - Enseignement : Mécanique (solide et fluides)
+    - Responsable pédagogique de la licence de Physique (parcours Mécanique)
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2011-2014
+:   **Inria, Equipe Projet MΞDISIM**; *Post-doc*
 
-    *Minor: Awesomeology*
+    Modélisation multi-échelle de la contraction cardiaque
 
-Experience
-----------
+2008-2011
+:   **Ecole Polytechnique / Laboratoire de Mécanique des Solides**; *Doctorat*
+
+    - Direction : Lev Truskinovsky & Jean-Marc Allain
+    - Sujet : Modélisation des changements de conformation collectifs dans la contraction musculaire
+    - Thèmes : Mécanique statistique dans des systèmes à changements de phase avec interaction à longue distance
+
+2007-2008
+:   **Centre Scientifique et Technique du Bâtiment**; *Ingénieur*
+
+    Travaux sur la règlementation thermique des bâtiments
+
+## Formation
+
+2003-2007
+: **Ecole Nationale des Ponts et Chaussées**; *Génie Mécanique et Matériaux*
+2007
+: **Ecole Polytechnique**; *Master*
+2001-2003
+: **Lycée Saliège (Balma)**; *Classes Préparatoires*
+
+## 
 
 **Your Most Recent Work Experience:**
 
@@ -72,7 +95,7 @@ Programming Languages
 :   **second-lang:** Description of your experience with second-lang,
     perhaps again including a [link] [ref], this time placing the url
     reference elsewhere in the document to reduce clutter (see source
-    file). 
+    file).
 
 :   **obscure-but-impressive-lang:** We both know this one's pushing
     it.
@@ -86,9 +109,9 @@ Extra Section, Call it Whatever You Want
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+  * English (native speaker)
+  * ???
+  * This is what a nested list looks like.
 
 * Random tidbit
 
@@ -96,5 +119,7 @@ Extra Section, Call it Whatever You Want
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <matthieu.caruel@u-pec.fr> • +33 (6)19 32 66 48 • <a href="https://orcid.org/0000-0001-5727-2427">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+0000-0001-2345-6789
+</a>
