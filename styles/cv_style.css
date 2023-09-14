@@ -7,14 +7,19 @@
  * This CSS document is delivered to you under the CC BY-SA 3.0 License.
  * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
  */
-
+ 
 /* Whole document */
+head{
+    $scriptsrc
+    $fontlink
+}
+
 body {
     font-family: "EB Garamond", "Helvetica Neue", "Times New Roman",  Helvetica, Arial, sans-serif;
     max-width: 800px;
     margin: auto;
     background: #FFFFFF;
-    padding: 10px 10px 10px 10px;
+    /* padding: 10px 10px 10px 10px; */
 }
 
 /* Title of the resume */
