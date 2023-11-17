@@ -1,18 +1,42 @@
 ---
-title: Matthieu Caruel
-lang: en
+title: Curriculuum vitae
+number: false
 ---
 
-----
+## Personnal information
 
-*Associate Professor\
-Specialist in biophysical modeling *
+- **Name:** Matthieu Caruel
+- **Citizenship:** French
+- **Date of birth:** September 28^th^ 1983
+- **Current position:** Associate Professor, Faculté des Sciences et Technologie, Université Paris-Est Créteil
+- **Research affiliation:** Laboratoire Modélisation et SImulation Multi Echelle (MSME, CNRS UMR 8208)
+- **Address:** 61, avenue du Général de Gaulle, 94010 Créteil, France
+- **Email address:** <matthieu.caruel@u-pec.f>
+- **Webpage:** <http://www.caruel.eu>
 
-----
+## Education
 
-## Professional Experience
+**2011** *Doctor of Phylosophy*, Ecole Polytechnique
 
-Since 2014:
+- Title: "Mechanics of Fast Force Recovery in Skeletal Muscles"
+- Supervision: Lev Truskinovsky and Jean-Marc Allain
+- Passed with very honorable distinction
+
+**2007** *Master of Science*, Ecole Polytechnique, Ecole des Mines de Paris
+
+- Passed first in class
+- Thesis: "Study of shape defects induced during the sintering of ceramic membranes for fuel cells"
+- Supervision: Jacques Besson
+  
+**2007** *Diplôme d'ingénieur des Ponts et Chaussées*, Ecole Nationale des Ponts et Chaussées
+
+- Mechanical engineering Bachelor degree
+
+**2003** Admitted to Ecole Nationale des Ponts et Chaussées
+
+## Academic positions
+
+**Since 2014:**
 
 - **Université Paris-Est Créteil**; *Associate Professor*
   - Leading research program on multiscale biomechanical modeling
@@ -20,17 +44,9 @@ Since 2014:
   - Pedagogical coordinator for the Physics undergraduate program (Mechanics track)
   - Coordinator of the experimental mechanics facility
 
-Since 2020:
-
-- **Freelance trainer** (since 2020)
-  - Face-to-face and distance learning services for academics (in French and English)
-  - Tools for project and knowledge management (Notion), scientific writing (LaTeX, pandoc)
-
 2011-2014:
 
-- **Inria, MΞDISIM Project Team**; *Post-doc*
-  - Multiscale mechanical modeling of cardiac contraction
-  - Development of a cardiac numerical simulator
+- **Inria, MΞDISIM Project Team**; *Post-doc*. D.~Chapelle and P.~Moireau group. Mathematical and Mechanical Modeling with Data Interaction in Simulations for Medicine.
 
 2008-2011:
 
@@ -44,57 +60,94 @@ Since 2020:
   - Participation in the development of the national computational core for building energy performance certification
   - Liaison between public authorities and engineering firms for regulatory compliance
 
-## Education
+## Synergistic Activities
 
-- 2008-2011 **PhD**; Biomechanics and Statistical Physics
-- 2003-2007 **Ecole Nationale des Ponts et Chaussées**; *Mechanical Engineering and Materials*
-- 2007 **Ecole Polytechnique**; *Master's Degree*
+- **Paper reviewing**
 
-## Skills
+  - eLife (1 article in 2021)
+  - International Journal of Molecular Sciences (1 paper in 2021)
+  - Proceedings of the Royal Society B (1 article in 2020)
+  - Vietnam Journal of Mathematics (1 article in 2020)
+  - Proceedings of the National Academy of Sciences (PNAS) (1 paper jointly with A. Houdusse in 2019)
+  - Physics Letters A (1 article in 2017)
+  - Soft Matter (1 article in 2017)
+  - Journal of Mechanics in Medicine and Biology (2016)
+  
+- **Conference Session organization** *Virtual Physiological Human (VPH 2020)* Member of the scientific committee, Session on muscle modeling, Paris, Online (2020)
+- **Workshop symposium organization** *MecaBio GDR meeting* Session on interdisciplinary approach to muscle contraction modeling, Montpellier (2018)
 
-- Interdisciplinary research project management
-- Scientific keywords: statistical Physics, continuum mechanics, molecular dynamics, numerical methods, and model reduction
-- Data Science (learning): Filtering, Image Processing, Machine Learning, and Neural Networks using Python
-- Other: Notion, tools for single source scientific documents publishing (LaTeX, Pandoc-Markdown)
+- **International education partnership** with the University of Florence (Italy) with the european ERASMUS+ program
 
-## Realizations
+- **Grant reviewing** for the National Science Committee (Poland, 2023)
 
-- 16 published articles in high-ranked international peer-reviewed journals in Physics, Mechanics, Biophysics and applied mathematics
-- Multiple conferences, invited seminars, and workshops
-- Reviewer for top-ranked journals including eLife, PNAS, and Soft Matter
-- Software development:
-  - library for molecular motors stochastic dynamics,
-  - lead project of molecular dynamics
-  - Participation in the development of a numerical cardiac simulation program (approximately 100,000 lines) with MΞDISIM.
-- Supervised 3 PhD students and participated in international PhD committees (Italy)
+- **Participation in PhD committees**
 
-## Interdisciplinary Research Activities
+  - **2023** Matteo Marcello, University of Sienna (Italy), PhysioLab, supervisor: Marco Linari. Served as Reviewer
+  - **2023** Giulia Morotti, University of Florence (Italy), PhysioLab, supervizor: Gabriella Piazzesi and Pasquale Bianco. Served as Reviewer
+  - **2021** Haythem Chelly, Université Grenoble Alpes (France), Laboratoire Interdisciplinaire de Physique, supervisor: Claude Verdier. Served as examinator
+  - **2021** Caterina Squarci, University of Florence (Italy), PhysioLab, supervizor: Gabriella Piazzesi. Served as reviewer
+  - **2021** Giulio bianchy, University of Florence (Italy), PhysioLab, supervisor: Marco Linari. Served as Reviewer
+  - **2018** Hudson Borja da Rocha, Ecole Polytechnique (France), Laboratoire PMMH, supervisor: Lev Truskinovsky, served as examinator
+  - **2018** Irene Pertici, University of Sienna (Italy), PhysioLab, supervised by Massimo Reconditi and Marco Linari. Served as reviewer
 
-**Molecular Dynamics (MD)** - Modeling and simulation of molecular processes
+## Collective responsabilities
 
-- Simulation of allosteric ligand-protein interaction in force generation by molecular motors (since 2019)
-- Formulation, calibration, and validation of coarse-grained actin-myosin interaction statistical physics models for muscle contraction and cardiac simulations (since 2016)
-- Determination of confined flow physical properties in bone tissue using MD for bone remodeling simulations (2016-2017)
+- **MSME Laboratory**
+  - Responsible for the MyoMech transverse project involving 3 researchers from three different teams of the Lab (biomechanics, theoretical mechanics and theoretical chemistry) (2018-2024)
+  - Responsible for the biomechanics team communication. Seminar organization, internal communication
+- **Université Paris-Est Créteil**
+  - (2020-) Responsible for the mechanics undergraduate program (2nd year)
+  - (2020-) Responsible for the mechanics experimental platform
 
-**Biophysics, Statistical Mechanic, and Thermodynamics Applied to Physiology** - Collective behavior of interconnected proteins
+## Mentoring
 
-- Launched collaboration for modeling the impact of small molecular myosin effector on cardiac contraction regulation (since 2022)
-- Discovery of an intrinsic speed optimization mechanism for synaptic neurotransmitter release mediated by SNARE proteins (2015-2019)
-- Discovery of a universal collective conformational change mechanism for load-bearing proteins (2008-2016)
+- PhD of Robin Manevy (2019-2023)
+  - Molecular Motors modeling using Molecular Dynamics methods
+  - supervised with Isabelle Navizet (MSME, theoretical chemistry) and Fabrice Detrez (MSME, Theoretical Mechanics)
+  - 1 article in preparation + conferences
+- PhD of François Kimmig (2016-2019)
+  - Multi-scale modeling of muscle contraction : From stochastic dynamics of molecular motors to continuum mechanics
+  - supervised with Dominique Chapelle (Inria, MΞDISIM)
+  - 2 articles published on the PhD work + conferences
+- PhD of Florent Wijanto (2015-2019)
+  - Multiscale Mechanics of Soft Tissues
+  - supervised with Jean-Marc Allain (Laboratoire de Mécanique des Solides, Ecole Polytechnique)
+  - 2 peer-reviewed conferences
+- Master II Thesis of Robin Manevy (2019)
+  - Mechanical Modeling of Myosin Conformational changes
+  - with Isabelle Navizet and Fabrice Detrez
+- Engineer school internship (2017)
+  - Tendon to bone interphase modeling
+  - with Salah Naili (MSME)
+- Master II thesis of Mohsen Nakhaei (2015)
+  - Biophysical modeling of SNARE proteins
+  - with Frédéric Pincet and Lionel Foret (Laboratoire de Physique Statistique, Ecole Normale Supérieure, Paris)
 
-**Continuum Mechanics, Multiscale Computational Modeling** - Cardiac Contraction models for biomedical applications
+## Teaching Activities
 
-- Development of a reduced model of heart ventricles and its application in rapid simulation of cardiac output indicators for clinical applications (2014-2019)
-- Development of a model for activation-contraction coupling in the heart based on allosteric ligand-protein interaction (since 2021)
+- **Université Paris-Est Créteil**
+  - (2014-) General Solid and fluid mechanics courses (undergraduate)
+  - (2014-2019) Multiphysics mechanical modeling (graduate program)
+
+- **Ecole Polytechnique** (2015-) Statistical Mechanics for cell motility (graduate program)
+
+- **Teaching service** 280 (5 years average)
 
 ## Main Scientific Collaborations
 
-- **Inria, MΞDISIM team**: Experts in mathematical and numerical methods in computational biomechanical modeling with data interaction for biomedical applications.
-- **Anne Houdusse**: World-class molecular biologist expert in structural characterization of molecular motors (Institut Curie, Paris).
-- **J.E. Rothman**: Biochemist and cellular biologist, Nobel Prize Winner in Physiology-Medicine 2013, specialist in molecular mechanisms of transport pathways in cells.
-- **PhysioLab** (V. Lombardi and M. Linari): Experts in experimental muscle physiology, with unique testing platforms for drug testing on muscle fibers and molecular nanomachine.
-- **Stefano Ruffo**: Physicist, specialist in out-of-equilibrium statistical physics (Trieste, Italy).
-
-----
-
-<matthieu.caruel@u-pec.fr> • +33 (6)19 32 66 48 • <a href="https://orcid.org/0000-0001-5727-2427"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" style="vertical-align: middle;" /> 0000-0001-2345-6789</a>
+- **MSME Lab**
+  - Isabelle Navizet and Fabrice Detrez: MyoMech transverse project. 1 PhD + 1 paper (in preparation) + 2 conference papers. Work on molecular dynamics simulations of molecular motors conformational changes
+  - Salah Naili, Thibault Lemaire: 2 journal papers
+- **Inria, MΞDISIM team**
+  - D. Chapelle: 1 PhD, 3 journal parpers and 4 conference papers **CHECK**
+  - P. Moireau: 3 journal papers (inc. 1 in preparation) and 4 conference papers **CHECK**
+  - J.~M. Allain: 1 PhD, 2 journal papers and 2 conference papers **CHECK**
+- **National collaborations**
+  - Anne Houdusse (Iinstitut Curie, Paris): 1 paper in preparation on the work of R. Manevy
+  - Lev Truskinovsky (PMMH laboratory, ESPCI, Paris): 4 journal papers
+  - Frédéric Pincet (LPS, ENS, Paris): 1 journal paper + 1 conference paper
+  - Tony Lelièvre and Julien Reygnier (CERMICS, Inria, ENPC, Paris), starting collaboration
+- **International collaborations**
+  - James E. Rothman (Yale University, USA 2013 Nobel Prize winner in Physiology and Medicine): 1 journal paper
+  - Stefano Ruffo (SISSA, Trieste, Italy): 1 ongoing PhD
+  - PhysioLab (University of Florence, Italy)

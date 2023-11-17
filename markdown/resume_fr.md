@@ -1,102 +1,136 @@
 ---
-title: Matthieu Caruel
-lang: fr
+title: Curriculum vitae
+number: false
 ---
 
-----
+## Informations personnelles
 
-*Maître de Conférences\
-Spécialiste en modélisation biophysique*
+- **Nom :** Matthieu Caruel
+- **Nationalité :** Française
+- **Date de naissance :** 28 septembre 1983
+- **Position actuelle :** Professeur associé, Faculté des Sciences et Technologie, Université Paris-Est Créteil
+- **Affiliation de recherche :** Laboratoire Modélisation et Simulation Multi Echelle (MSME, CNRS UMR 8208)
+- **Adresse :** 61, avenue du Général de Gaulle, 94010 Créteil, France
+- **Adresse email :** <matthieu.caruel@u-pec.fr>
+- **Page web :** <http://www.caruel.eu>
 
-----
+## Formation
 
-## Expérience Professionnelle
+**2011** *Doctorat*, École Polytechnique
 
+- Titre : "Mécanique de la récupération rapide de force dans les muscles squelettiques"
+- Supervision : Lev Truskinovsky et Jean-Marc Allain
+- Mention très honorable
 
-Depuis 2014 :
+**2007** *Master*, École Polytechnique, École des Mines de Paris
 
-- **Université Paris-Est Créteil** ; *Maître de Conférences*
-  - Direction de projets de recherche sur la modélisation biomécanique multiéchelle
-  - Enseignement au sein du département de Mécanique de la Faculté des Sciences et Technologies
-  - Responsable pédagogique du programme de licence en Physique (Filière Mécanique)
-  - Coordinateur des installations de mécanique expérimentale
+- Thèse : "Étude des défauts de forme induits lors du frittage de membranes céramiques pour piles à combustible"
+- Supervision : Jacques Besson
 
-Depuis 2020 :
+**2007** *Diplôme d'ingénieur des Ponts et Chaussées*, École Nationale des Ponts et Chaussées
 
-- **Formateur indépendant**
+## Carrière
 
-  - Services de formation en présentiel et à distance pour les universitaires (en français et en anglais)
-  - Outils de gestion de projet et de gestion des connaissances (Notion), rédaction scientifique (LaTeX, pandoc)
+**Depuis 2014 :**
+
+- **Université Paris-Est Créteil**; *Professeur associé*
+  - Programme de recherche leader en modélisation biomécanique multi-échelle
+  - Enseignement dans le département de Mécanique de la Faculté des Sciences et Technologie
+  - Coordinateur pédagogique pour le programme de licence en Physique (parcours Mécanique)
+  - Coordinateur de la plateforme de mécanique expérimentale
 
 2011-2014 :
 
-- **Inria, Équipe de Projet MΞDISIM** ; *Post-doctorat*
-  - Modélisation mécanique à plusieurs échelles de la contraction cardiaque
-  - Développement d'un simulateur numérique cardiaque
+- **Inria, Équipe Projet MΞDISIM**; *Post-doc*. Groupe D.~Chapelle et P.~Moireau. Modélisation mathématique et mécanique avec interaction de données dans les simulations pour la médecine.
 
 2008-2011 :
 
-- **Ecole Polytechnique / Laboratoire de Mécanique des Solides** ; *Doctorat*
-  - Thèse : Modélisation stochastique des moteurs moléculaires
-  - Enseignant en mathématiques pour les étudiants de premier cycle
+- **École Polytechnique / Laboratoire de Mécanique des Solides**; *Ph.D.*
+  - Thèse : Modélisation stochastique des changements conformationnels collectifs dans les moteurs moléculaires
+  - Conférencier en mathématiques de premier cycle
 
 2007-2008 :
 
-- **Centre Scientifique et Technique du Bâtiment** ; *Ingénieur*
-  - Participation au développement du noyau national de calcul pour la certification de la performance énergétique des bâtiments
-  - Lien entre les autorités publiques et les entreprises d'ingénierie pour la conformité réglementaire
+- **Centre Scientifique et Technique du Bâtiment**; *Ingénieur*
+  - Participation au développement du noyau informatique national pour la certification de la performance énergétique des bâtiments
+  - Liaison entre les autorités publiques et les bureaux d'ingénierie pour la conformité réglementaire
 
-## Éducation
 
-- 2008-2011 **Doctorat** ; Biomécanique et Physique Statistique
-- 2003-2007 **École Nationale des Ponts et Chaussées** ; *Génie Mécanique et Matériaux*
-- 2007 **École Polytechnique** ; *Master*
 
-## Compétences
+## Activités d'expertise
 
-- Gestion de projets de recherche interdisciplinaires
-- Mots-clés scientifiques : Physique statistique, mécanique des milieux continus, dynamique moléculaire, méthodes numériques et réduction de modèles
-- Science des données (apprentissage) : Filtres, Traitement d'images, Apprentissage automatique et Réseaux neuronaux avec Python
-- Autres : Notion, outils pour la publication de documents scientifiques à source unique (LaTeX, Pandoc-Markdown)
+- **Revue d'articles**
 
-## Réalisations
+  - eLife (1 article en 2021)
+  - Journal International des Sciences Moléculaires (1 article en 2021)
+  - Proceedings of the Royal Society B (1 article en 2020)
+  - Journal Vietnamien de Mathématiques (1 article en 2020)
+  - Proceedings of the National Academy of Sciences (PNAS) (1 article conjointement avec A. Houdusse en 2019)
+  - Physics Letters A (1 article en 2017)
+  - Soft Matter (1 article en 2017)
+  - Journal of Mechanics in Medicine and Biology (2016)
 
-- 16 articles publiés dans des revues internationales de haut niveau en Physique, Mécanique, Biophysique et mathématiques appliquées
-- Plusieurs conférences, séminaires invités et ateliers
-- Examinateur pour des revues de premier plan, notamment eLife, PNAS et Soft Matter
-- Développement de logiciels :
-  - Bibliothèque pour la dynamique stochastique des moteurs moléculaires,
-  - Projet principal de dynamique moléculaire
-  - Participation au développement d'un programme de simulation cardiaque numérique (environ 100 000 lignes) avec MΞDISIM.
-- Encadrement de 3 étudiants en doctorat et participation à des comités de doctorat internationaux (Italie)
+- **Organisation de sessions de conférences** *Virtual Physiological Human (VPH 2020)* Membre du comité scientifique, Session sur la modélisation musculaire, Paris, En ligne (2020)
+- **Organisation de symposiums et ateliers** *Réunion du GDR MecaBio* Session sur l'approche interdisciplinaire de la modélisation de la contraction musculaire, Montpellier (2018)
 
-## Activités de Recherche Interdisciplinaires
+- **Partenariat universitaire international** avec l'Université de Florence (Italie) dans le cadre du programme européen ERASMUS+
 
-**Dynamique Moléculaire (MD)** - Modélisation et simulation des processus moléculaires
+- **Revue d'appel à projets** pour le Comité National des Sciences (Pologne, 2023)
 
-- Simulation de l'interaction ligand-protéine allostérique dans la génération de force par les moteurs moléculaires (depuis 2019)
-- Formulation, étalonnage et validation de modèles de physique statistique de l'interaction actine-myosine à grain grossier pour la contraction musculaire et les simulations cardiaques (depuis 2016)
-- Détermination des propriétés physiques de l'écoulement confiné dans les tissus osseux en utilisant la MD pour les simulations de remodelage osseux (2016-2017)
+- **Participation dans les comités de thèse**
 
-**Biophysique, Mécanique Statistique et Thermodynamique Appliquée à la Physiologie** - Comportement collectif des protéines interconnectées
+  - **2023** Matteo Marcello, Université de Sienne (Italie), PhysioLab, superviseur : Marco Linari. A servi en tant que réviseur
+  - **2023** Giulia Morotti, Université de Florence (Italie), PhysioLab, superviseur : Gabriella Piazzesi et Pasquale Bianco. A servi en tant que réviseur
+  - **2021** Haythem Chelly, Université Grenoble Alpes (France), Laboratoire Interdisciplinaire de Physique, superviseur : Claude Verdier. A servi en tant qu'examinateur
+  - **2021** Caterina Squarci, Université de Florence (Italie), PhysioLab, superviseur : Gabriella Piazzesi. A servi en tant que réviseur
+  - **2021** Giulio Bianchy, Université de Florence (Italie), PhysioLab, superviseur : Marco Linari. A servi en tant que réviseur
+  - **2018** Hudson Borja da Rocha, École Polytechnique (France), Laboratoire PMMH, superviseur : Lev Truskinovsky, a servi en tant qu'examinateur
+  - **2018** Irene Pertici, Université de Sienne (Italie), PhysioLab, supervisé par Massimo Reconditi et Marco Linari. A servi en tant que réviseur
 
-- Lancement d'une collaboration pour modéliser l'impact d'un petit effecteur moléculaire de myosine sur la régulation de la contraction cardiaque (depuis 2022)
-- Découverte d'un mécanisme intrinsèque d'optimisation de la vitesse pour la libération de neurotransmetteurs synaptiques médiée par les protéines SNARE (2015-2019)
-- Découverte d'un mécanisme universel de changement conformationnel collectif pour les protéines porteuses de charge (2008-2016)
+## Responsabilités collectives
 
-**Mécanique des Milieux Continus, Modélisation Multisélectionnée** - Modèles de contraction cardiaque pour les applications biomédicales
+- **Laboratoire MSME**
+  - Responsable du projet transversal MyoMech impliquant 3 chercheurs de trois équipes différentes du laboratoire (biomécanique, mécanique théorique et chimie théorique) (2018-2024)
+  - Responsable de la communication de l'équipe de biomécanique. Organisation de séminaires, communication interne
+- **Université Paris-Est Créteil**
+  - (2020-) Responsable du programme de licence en mécanique (2ème année)
+  - (2020-) Responsable de la plateforme expérimentale de mécanique
 
-- Développement d'un modèle réduit des ventricules cardiaques et son application dans la simulation rapide des indicateurs de débit cardiaque pour les applications cliniques (2014-2019)
-- Développement d'un modèle de couplage activation-contraction dans le cœur basé sur l'interaction allostérique ligand-protéine (depuis 2021)
+## Encadrement
 
-## Principales Collaborations Scientifiques
+- Thèse de Robin Manevy (2019-2023)
+  - Modélisation des moteurs moléculaires utilisant les méthodes de la dynamique moléculaire
+  - supervisé avec Isabelle Navizet (MSME, chimie théorique) et Fabrice Detrez (MSME, Mécanique Théorique)
+  - 1 article en préparation + conférences
+- Thèse de François Kimmig (2016-2019)
+  - Modélisation multi-échelle de la contraction musculaire : de la dynamique stochastique des moteurs moléculaires à la mécanique du continuum
+  - supervisé avec Dominique Chapelle (Inria, MΞDISIM)
+  - 2 articles publiés sur le travail de thèse + conférences
+- Thèse de Florent Wijanto (2015-2019)
+  - Mécanique multi-échelle des tissus mous
+  - supervisé avec Jean-Marc Allain (Laboratoire de Mécanique des Solides, École Polytechnique)
+  - 2 conférences évaluées par des pairs
+- Thèse de Master II de Robin Manevy (2019)
+  - Modélisation mécanique des changements conformationnels de la myosine
+  - avec Isabelle Navizet et Fabrice Detrez
+- Stage d'école d'ingénieurs (2017)
+  - Modélisation de l'interface tendon-os
+  - avec Salah Naili (MSME)
+- Thèse de Master II de Mohsen Nakhaei (2015)
+  - Modélisation biophysique des protéines SNARE
+  - avec Frédéric Pincet et Lionel Foret (Laboratoire de Physique Statistique, École Normale Supérieure, Paris)
 
-- **Équipe de Projet Inria MΞDISIM** : Experts en méthodes mathématiques et numériques dans la modélisation biomécanique computationnelle avec interaction de données pour les applications biomédicales.
-- **Anne Houdusse** : Biologiste moléculaire de renommée mondiale, experte en caractérisation structurale des moteurs moléculaires (Institut Curie, Paris).
-- **J.E. Rothman** : Biochimiste et biologiste cellulaire, lauréat du prix Nobel de Physiologie-Médecine 2013, spécialiste des mécanismes moléculaires des voies de transport dans les cellules.
-- **PhysioLab** (V. Lombardi et M. Linari) : Experts en physiologie musculaire expérimentale, avec des plates-formes de test uniques pour les tests de médicaments sur les fibres musculaires et les nanomachines moléculaires.
-- **Stefano Ruffo** : Physicien, spécialiste de la physique statistique hors équilibre (Trieste, Italie).
+## Activités d'enseignement
 
-----
+- **Université Paris-Est Créteil**
+  - (2014-) Cours de mécanique générale des solides et des fluides (licence)
+  - (2014-2019) Modélisation mécanique multiphysique (programme de master)
 
-<matthieu.caruel@u-pec.fr> • +33 (6)19 32 66 48 • <a href="https
+- **École Polytechnique** (2015-) Mécanique statistique pour la motilité cellulaire (programme de master)
+
+- **Service d'enseignement** 280 (moyenne sur 5 ans)
+
+## Prix et distinction
+
+- Lauréat de la bourse d'excellence Monge (Ecole Polytechnique)
+- Prix des talents de l'outre-mer 2015
